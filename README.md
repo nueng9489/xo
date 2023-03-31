@@ -21,7 +21,7 @@ DB_PASSWORD=
 Go to project and run command
 
 ```
-composser install
+composer install
 ```
 
 Migrate database use command
